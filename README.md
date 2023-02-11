@@ -10,3 +10,5 @@
 <p align= "left">
   
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ouokki)
+  
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ouokki"/>
