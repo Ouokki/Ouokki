@@ -8,3 +8,5 @@
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ouokki&show_icons=true" alt="ouokki" /></p>
 <p align= "left">
+  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ouokki)
